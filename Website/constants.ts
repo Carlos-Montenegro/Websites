@@ -7,7 +7,7 @@ export const HEADSHOT_IMAGES: string[] = [
 ];
 
 export const VIDEO_REELS: VideoReel[] = [
-  { id: 'oHzc9SkSUhI', title: 'Demo Reel', description: '' },
+  { id: 'Tt-VS8NaOYc', title: 'Demo Reel', description: '' },
   { id: 'Cojc1PG8X0k', title: 'The Jar (Short film)', description: 'Role: Eren' },
   { id: 'O0euKcCKSXE', title: 'Dreamtime (Short film)', description: 'Role: Ben' },
   { id: 'OwJWLqYt4BA', title: 'Mates (Short film)', description: 'Role: Paul' },
