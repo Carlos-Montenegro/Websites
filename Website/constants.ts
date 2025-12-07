@@ -17,7 +17,7 @@ export const VIDEO_REELS: VideoReel[] = [
 ];
 
 export const FILM_CREDITS: Credit[] = [
-    { title: 'Deadline (Short film)', role: 'Alex', writer: 'Lani Mahulete', date: 'Nov 2025' },
+    { title: 'Deadline (Short film)', role: 'Alex', director: 'Dominykas Petrulis', date: 'Dec 2025' },
     { title: 'Unrelenting Standards (Short film)', role: 'Paul', director: 'Carlos Montenegro', date: 'Nov 2025' },
     { title: 'Dreamtime (Short film)', role: 'Ben', director: 'Tommaso Maistri', date: 'Nov 2024' },
     { title: 'Writing in October (Short film)', role: 'David', director: 'Carlos Montenegro', date: 'Oct 2024' },
