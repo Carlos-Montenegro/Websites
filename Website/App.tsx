@@ -21,7 +21,7 @@ const SectionTitle: React.FC<{children: React.ReactNode}> = ({ children }) => (
 );
 
 const HomePage: React.FC = () => (
-  <div className="h-screen w-full flex items-center justify-center text-center bg-cover bg-center bg-no-repeat" style={{ backgroundImage: `linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url(${HEADSHOT_IMAGES[0]})`}}>
+  <div className="h-screen w-full flex items-center justify-center text-center bg-cover bg-center bg-no-repeat" style={{ backgroundImage: `linear-gradient(rgba(0,0,0,0.6), rgba(0,0,0,0.6)), url(${HOME_BG_IMAGE})`}}>
     <div className="text-white animate-fade-in">
       <h1 className="text-5xl md:text-7xl font-black tracking-tight">CARLOS MONTENEGRO</h1>
       <p className="text-xl md:text-2xl mt-4 font-light accent-color tracking-wider">Actor based in Amsterdam</p>
