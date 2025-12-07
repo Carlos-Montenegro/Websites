@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { Page, VideoReel, Credit, TrainingItem, Skill } from './types';
-import { HEADSHOT_IMAGES, VIDEO_REELS, FILM_CREDITS, TRAINING, SKILLS } from './constants';
+import { HEADSHOT_IMAGES, VIDEO_REELS, FILM_CREDITS, TRAINING, SKILLS, HOME_BG_IMAGE} from './constants';
 import { MenuIcon, CloseIcon, DownloadIcon, ExternalLinkIcon, EmailIcon, WhatsAppIcon } from './components/icons';
 
 // SECTION: PAGE COMPONENTS
