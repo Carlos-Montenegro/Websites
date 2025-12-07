@@ -1,5 +1,7 @@
 import { VideoReel, Credit, TrainingItem, Skill } from './types';
 
+export const HOME_BG_IMAGE = 'https://i.ibb.co/ZRCD22nJ/Carlos-Montenegro-Hennis-2025-7.jpg';
+
 export const HEADSHOT_IMAGES: string[] = [
   'https://i.ibb.co/4RXT9fst/Carlos-Montenegro-Hennis-2025-3.jpg',
   'https://i.ibb.co/bjfWnvYK/Carlos-Montenegro-Hennis-2025-7.jpg',
