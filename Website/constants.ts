@@ -8,6 +8,15 @@ export const HEADSHOT_IMAGES: string[] = [
   'https://i.ibb.co/v69xcz7R/Carlos-Montenegro-Hennis-2025-9.jpg',
 ];
 
+export const UNRELENTING_STANDARDS_IMAGES: string[] = [
+  'https://i.ibb.co/8LTvBV0Y/IMG-9212.jpg',
+  'https://i.ibb.co/rRB57mWd/IMG-9215.jpg',
+  'https://i.ibb.co/nMRmqsFf/IMG-9214.jpg',
+  'https://i.ibb.co/Ndst5P5n/IMG-9216.jpg',
+  'https://i.ibb.co/wFVXHJ13/IMG-9213.jpg',
+  'https://i.ibb.co/QBDchvR/IMG-9217.jpg',
+];
+
 export const VIDEO_REELS: VideoReel[] = [
   { id: 'Tt-VS8NaOYc', title: 'Demo Reel', description: '' },
   { id: 'Cojc1PG8X0k', title: 'The Jar (Short film)', description: 'Role: Eren' },
