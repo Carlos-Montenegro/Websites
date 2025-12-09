@@ -82,7 +82,7 @@ const AboutPage: React.FC = () => (
             <div>
                 <h2 className="text-3xl md:text-4xl font-bold mb-4 text-white">About Me</h2>
                 <p className="text-gray-300 mb-8 leading-relaxed">
-                    I bring a unique, cosmopolitan perspective as a vegan, queer person raised in Peru who has also lived in the US, France, Denmark, and the Netherlands.
+                    I have participated as lead actor in 6 short and I would be happy to help you create your next film.
                 </p>
                 <div className="border-t border-gray-700 pt-6">
                     <h3 className="text-2xl font-semibold mb-4 text-white">Details</h3>
